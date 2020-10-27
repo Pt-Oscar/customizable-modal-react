@@ -1,6 +1,6 @@
 {
     "name": "customizable-modal-react",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "customizable modal react",
     "main": "./lib/CustomizableModal.js",
     "license": "MIT",
@@ -33,7 +33,6 @@
         "webpack-cli": "^3.2.1"
     },
     "dependencies": {
-        "react-draggable": "^4.4.3"
     },
     "keywords": [
         "customizable",
